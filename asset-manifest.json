@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Social-Pet/static/css/main.5d18f4b2.chunk.css",
+    "main.js": "/Social-Pet/static/js/main.492c95a9.chunk.js",
+    "main.js.map": "/Social-Pet/static/js/main.492c95a9.chunk.js.map",
+    "runtime-main.js": "/Social-Pet/static/js/runtime-main.55a24820.js",
+    "runtime-main.js.map": "/Social-Pet/static/js/runtime-main.55a24820.js.map",
+    "static/js/2.d9c221bd.chunk.js": "/Social-Pet/static/js/2.d9c221bd.chunk.js",
+    "static/js/2.d9c221bd.chunk.js.map": "/Social-Pet/static/js/2.d9c221bd.chunk.js.map",
+    "index.html": "/Social-Pet/index.html",
+    "static/css/main.5d18f4b2.chunk.css.map": "/Social-Pet/static/css/main.5d18f4b2.chunk.css.map",
+    "static/js/2.d9c221bd.chunk.js.LICENSE.txt": "/Social-Pet/static/js/2.d9c221bd.chunk.js.LICENSE.txt",
+    "static/media/adiestrador.c056f71d.png": "/Social-Pet/static/media/adiestrador.c056f71d.png",
+    "static/media/img_login.4c552726.jpg": "/Social-Pet/static/media/img_login.4c552726.jpg",
+    "static/media/img_signup.2a285a90.jpg": "/Social-Pet/static/media/img_signup.2a285a90.jpg",
+    "static/media/login_vet.48c7cbf2.png": "/Social-Pet/static/media/login_vet.48c7cbf2.png",
+    "static/media/petshop.b44f7276.png": "/Social-Pet/static/media/petshop.b44f7276.png",
+    "static/media/post_found.49f5f4e2.png": "/Social-Pet/static/media/post_found.49f5f4e2.png",
+    "static/media/post_lost.471e034e.png": "/Social-Pet/static/media/post_lost.471e034e.png",
+    "static/media/post_photo.8182f128.png": "/Social-Pet/static/media/post_photo.8182f128.png",
+    "static/media/refugios.0391cc63.png": "/Social-Pet/static/media/refugios.0391cc63.png",
+    "static/media/tienda_de_mascotas.a0353408.png": "/Social-Pet/static/media/tienda_de_mascotas.a0353408.png",
+    "static/media/veterinaria.9c4f7023.png": "/Social-Pet/static/media/veterinaria.9c4f7023.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a24820.js",
+    "static/js/2.d9c221bd.chunk.js",
+    "static/css/main.5d18f4b2.chunk.css",
+    "static/js/main.492c95a9.chunk.js"
+  ]
+}
